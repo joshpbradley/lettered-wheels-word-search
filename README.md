@@ -1,5 +1,5 @@
 # lettered-wheels-word-search
- Finds all dictionary-supplied words contained in a series of lettered wheels.
+Finds all dictionary-supplied words contained in a series of lettered wheels.
 
 This program finds all possible words of two letters or more, formed by a series of lettered wheels.
 
